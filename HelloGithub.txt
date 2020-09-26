@@ -1,1 +1,3 @@
-Hi there, this a demo about Github and Git.
+Hi there, this a demo about Github and Git. 
+
+This is another changes in the local repository.
